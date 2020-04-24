@@ -7,4 +7,4 @@ Note that the releases themselves included the Reference Genomes and similar mul
 
 Marko never checked in the modifications required to create the CygWin WIn10 port of the Bioinformatic tools like samtools, bcftools, etc; as well as the Python port with its pre-installed libraries. This was all hand developed and the result simply part of the release.  It is not recreatable by anything in this repository.  
 
-This work has all been reset with the new release a year later which is in the main [WGS Extract repository](https://WGSExtract.github.com/WGSExtract/ "WGS Extract") here.
+This work has all been reset with the new release a year later which is in the main [WGS Extract repository](https://github.com/WGSExtract/WGSExtract "WGS Extract") here.
