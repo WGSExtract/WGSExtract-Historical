@@ -1,5 +1,5 @@
 # WGSExtract-Historical
-Documenting the initial, first year WGS Extract Beta releases by Marko from May 2019 through Feb 2020 and made available (then) at http://37.187.22.93/wgsextract/WGSExtractBeta.zip.
+Documenting the initial, first two years WGS Extract Beta releases by Marko from May 2019 through Feb 2020 and made available (then) at http://37.187.22.93/wgsextract/WGSExtractBeta.zip.
 
 This section is to hold the python source code of the releases and any notes on Marko's first year of releases and support. 
 
