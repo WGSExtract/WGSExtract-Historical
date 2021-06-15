@@ -1,15 +1,15 @@
 # WGSExtract-Historical
-Documenting the initial, first two years WGS Extract Beta releases by Marko from May 2019 through Feb 2020 and made available (then) at http://37.187.22.93/wgsextract/WGSExtractBeta.zip.
+Documenting the initial, first two years WGS Extract Beta releases by Marko from May 2019 through May 2021 and made available (then) at http://37.187.22.93/wgsextract/WGSExtractBeta.zip.
 
-This section is to hold the python source code of the releases and any notes on Marko's first year of releases and support. 
+This section is to hold the python source code of the releases and any notes on Marko's first year of releases and support. Manuals and patch mods were by Randy starting 5 months in.
 
-Note that the release ZIP archives included the Reference Genomes and similar large files that exceed limits set by GITHub for storing here.  So you will have to get the complete package .zip release elsewhere. This is just the Python source and related, smaller files that Marko distributed; for historical reasons.
+Note that the release ZIP archives included the Reference Genomes and similar large files that exceed limits set by GITHub for storing here.  So you will have to get the complete package .zip release elsewhere. This is just the Python source and related, smaller files that Marko distributed; here for historical reasons.
 
 Marko never checked in the modifications required to create the CygWin WIn10 port of samtools, bcftools, etc; as well as the Python port with its pre-installed libraries. This was all hand developed and the result simply supplied as part of the release in Win10 executable form.  It is not recreatable by anything in this repository.
 
-This work has all been replaced with the new release a year later which is supported and distributed in the main [WGS Extract repository](https://github.com/WGSExtract/WGSExtract "WGS Extract") located here at GitHub also.
+This work has all been replaced with the new release developed over the last year which is supported and distributed in the main [WGS Extract repository](https://github.com/WGSExtract/WGSExtract "WGS Extract") located here at GitHub also.
 
-We archive the version information for this first release here for historical reasons (as it may eventually disappear from the current release site):
+We archive the version information for this first release here for historical reasons:
 
 | Version | Dates | Manual | (Archived) Release | Notes|
 |:--- | :---:| --- | ---| ---|
@@ -24,7 +24,7 @@ Former wgsextract.github.io entry page:
 # WGS Extract
 a desktop tool for verifying, analyzing and manipulating your **DTC 30x [WGS](https://h600.org/wiki/WGS) test** results
 
-__Current release__ is Beta v2b (18 Feb 2020):
+__Current release__ is Beta v2b (18 Feb 2020 through to 15 Jun 2021):
 * **WGS Extract** [Manual (Google Doc)](http://bit.ly/36Jdpnq)  (`see below for alternative`)
 * **WGS Extract** [Download Release (5 GB)](http://bit.ly/3afRl6O)
 ```
