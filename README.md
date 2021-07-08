@@ -1,7 +1,7 @@
 # WGSExtract-Historical
 
 Former wgsextract.github.io entry page:
-# WGS Extract v2
+# WGS Extract v2b (last)
 a desktop tool for verifying, analyzing and manipulating your **DTC 30x [WGS](https://h600.org/wiki/WGS) test** results
 
 __Current release__ is Beta v2b (18 Feb 2020 through to 15 Jun 2021):
