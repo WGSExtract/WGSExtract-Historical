@@ -55,7 +55,7 @@ __WGS Extract release__ of Beta v2b (18 Feb 2020) broken up into separate ZIP ar
 
 We are working to make all **Reference Genome** files downloaded on demand in future releases. You can run some features of the tool without the Reference Genomes available. So consider downloading and installing the **Main Program Release** and later adding the **Reference Genomes**. The Win10 tool ports are only needed for Win10 users. In fact, if we even make our own binary templates downloaded as needed, the program drops to under 10 MB downloaded and installed! Clearly a much better solution going forward.
 
-#WGS Extract pre-final v2b
+# WGS Extract pre-final v2b
 Documenting the initial, first two years WGS Extract Beta releases by Marko from May 2019 through May 2021 and made available (then) at http://37.187.22.93/wgsextract/WGSExtractBeta.zip.
 
 This section is to hold the python source code of the releases and any notes on Marko's first year of releases and support. Manuals and patch mods were by Randy starting 5 months in.
