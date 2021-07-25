@@ -5,8 +5,8 @@ Former wgsextract.github.io entry page:
 a desktop tool for verifying, analyzing and manipulating your **DTC 30x [WGS](https://h600.org/wiki/WGS) test** results
 
 __Current release__ is Beta v2b (18 Feb 2020 through to 15 Jun 2021):
-* **WGS Extract** [Manual (Google Doc)](http://bit.ly/36Jdpnq)  (`see below for alternative`)
-* **WGS Extract** [Download Release (5 GB)](http://bit.ly/3afRl6O)
+* **WGS Extract** [Manual (Google Doc)](http://bit.ly/36Jdpnq)  
+* **WGS Extract** [Download Release (5 GB)](http://bit.ly/3afRl6O) (`see below for alternative`)
 ```
 SHA256: 41D68ED9ABEAAD0AA6BB68F3043294DC02F5DD17E28F86BB776C56704148F76C
 MD5: 690C3C6D5CFBF745114D1690C4C00065
